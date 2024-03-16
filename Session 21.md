@@ -45,4 +45,4 @@ We head to our house on Poor street. We refill [[Fyndal Kayne]]'s wine reserves.
 
 We leave the [[Velakki Inn]] and head towards to the [[Werewolf Den]]. We successfully find the den. We arrive around noon. [[Sumrak]] enters the cave in a werewolf form and is confronted by the guards.
 
-We are greeted by [[Kiril Tsoylonovich]]. We also learned that [[Sumrak]] was turned into a warewolf by [[Kiril Tsoylonovich|Kiril]].
+We are greeted by [[Kiril Tsoylonovich]]. We also learned that [[Sumrak]] was turned into a warewolf by [[Kiril Tsoylonovich|Kiril]]. [[Sumrak]] tries to lie to [[Kiril Tsoylonovich]] and fails to lie about the sickles given to her. We start a fight with the werewolves.
