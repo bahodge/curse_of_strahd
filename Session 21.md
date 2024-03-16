@@ -43,4 +43,4 @@ We head to our house on Poor street. We refill [[Fyndal Kayne]]'s wine reserves.
 
 ## Werewolf Den
 
-We leave the [[Velakki Inn]] and head towards to the [[Werewolf Den]]. We succes
+We leave the [[Velakki Inn]] and head towards to the [[Werewolf Den]]. We successfully find the den. We arrive around noon.
