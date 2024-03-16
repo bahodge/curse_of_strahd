@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "6b29b3364bab6ea0",
+            "id": "d409101ae250fc33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d021d5718e976e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeca2902447b7fad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Otto Bellevue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 21.md"
+                "file": "People/Otto Bellevue.md"
               }
             }
           },
@@ -152,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 21.md",
+                "file": "People/Otto Bellevue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 21.md",
+                "file": "People/Otto Bellevue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,10 +227,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b29b3364bab6ea0",
+  "active": "eeca2902447b7fad",
   "lastOpenFiles": [
-    "Places/Village of Kresk.md",
     "Session 21.md",
+    "People/Zigfrik Bellvue.md",
+    "People/Otto Bellevue.md",
+    "Creatures/Mongrelfolk.md",
+    "mongrel.md",
+    "Images/mongrelkin_2.png",
+    "Images/mongrelkin_1.png",
+    "Images/mongrelkin_2",
+    "Places/Village of Kresk.md",
     "Images/village_of_kresk.png",
     "Places/Abby of Kresk.md",
     "People/Gell Wiildheart.md",
@@ -234,13 +265,8 @@
     "Untitled.canvas",
     "2024-02-24.md",
     "Items/Gulthias Staff.md",
-    "Sessions/Session 18.md",
-    "Sessions/Session 17.md",
-    "Sessions/Session 5 - Reading.md",
-    "Groups/Vensha Family.md",
     "Images/strahd_von_tsarovich.png",
     "Images/strahd 1.png",
-    "Images/claudia_belasco.png",
     "Images",
     "Quests",
     "Sessions",
@@ -249,7 +275,6 @@
     "Items",
     "Events",
     "Creatures",
-    "Events",
-    "Background"
+    "Events"
   ]
 }

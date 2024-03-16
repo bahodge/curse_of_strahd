@@ -22,4 +22,4 @@ We speak to a blacksmith and get a quote on plate armor
 
 The blacksmith notices the silver coffer [[Fyndal Kayne]] and offers to buy it but we don't sell it. Instead we silver [[Vayl Veliknova|Vayl]]'s halberd.
 
-We head to the [[Abby of Kresk]] and [[Fyndal Kayne]] hugs a statue and [[Vayl Veliknova]] skips a rock further than [[Fyndal Kayne]], again proving how awesome she is. Nothing happens. We approach the abby and see 2 heaving piles of fur. 
+We head to the [[Abby of Kresk]] and [[Fyndal Kayne]] hugs a statue and [[Vayl Veliknova]] skips a rock further than [[Fyndal Kayne]], again proving how awesome she is. Nothing happens. We approach the abby and see 2 heaving piles of fur. Out pop 2 [[Mongrelfolk]] guarding the Abby, [[Zigfrik Bellvue]] and [[Otto Bellevue]]. We move into the courtyard of the Abby. We learn that the [[Mongrelfolk]] come from the abby, which tells us that that the [[Abbot of Kresk]] has something to do with [[Cyrus Bellevue]]. We learn that the [[Mongrelfolk]] at the Abby are jealous of [[Cyrus Bellevue]] because of his freedoms and working for [[Count Strahd von Tzarovich|Strahd]].

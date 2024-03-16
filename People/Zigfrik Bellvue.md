@@ -1,0 +1,1 @@
+[[Mongrelfolk]] guarding the [[Abby of Kresk]]
