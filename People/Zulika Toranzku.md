@@ -1,0 +1,1 @@
+Friendly werewolf leader and wife of [[Emil Toranzku]].

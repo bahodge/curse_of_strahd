@@ -10,7 +10,7 @@ We need to take wine deliveries to [[Village of Kresk]], [[Town of Velakki]] and
 - 2 [[Village of Kresk]]
 - 1 [[Vistani]]
 
-We decide to head to the [[Village of Kresk]] with [[Adrien Vensha]] and [[Muriel Vensha]]. We inform the [[Granny Morgan]] that we have gotten stronger by helping free the [[Wildfolk]]. After visiting Kresk we will stop at the [[Western Mage Tower]] to visit [[Rudolph Van Richten]]. We arrive at [[Village of Kresk]] and we are hurried in by the guard. [[Adrien Vensha]] is immediately recognized and we are let in. We explore the village a little bit.
+We decide to head to the [[Village of Kresk]] with [[Adrien Vensha]] and [[Muriel Vensha]]. We inform the [[Granny Morgan]] that we have gotten stronger by helping free the [[Wildfolk]]. After visiting Kresk we will continue delivering wine. We arrive at [[Village of Kresk]] and we are hurried in by the guard. [[Adrien Vensha]] is immediately recognized and we are let in. We explore the village a little bit.
 
 We should speak to the [[Burgomaster Dimitri Kreskov]]. We learn that the [[Abbot of Kresk]] has not left his church since the [[Dinner at Castle Ravenloft]], weeks ago.
 We are paid 50gp for delivering the wine to [[Village of Kresk]]. We learn that the son of [[Burgomaster Dimitri Kreskov]] has just died of a mysterious illness, he was 14 years old. [[Fyndal Kayne]] says that the symptoms are very similar to the symptoms people suffered from in the [[Village of Barovia]].
@@ -30,4 +30,6 @@ We head to the [[Abby of Kresk]] and [[Fyndal Kayne]] hugs a statue and [[Vayl V
 
 We reach [[Burgomaster Dimitri Kreskov]] and the son is resurrected. We learn that the price of the resurrection is a white wedding dress.
 
-We leave the village to head towards the [[Western Mage Tower]].
+We leave the village to head towards the [[Western Vistani Camp]] camp. About halfway to the town, we hear howling. And [[Sumrak]] lets us know that the howling we hear is likely not an attack. Out of the woods we see [[Zulika Toranzku]] in her werewolf form. She approaches [[Sumrak]], and informs her that her husband [[Emil Toranzku]], went to confront the hostile werewolf pack. [[Sumrak]] is given 2 sickles to control her wild shape. We continue towards the [[Western Vistani Camp]] camp.
+
+We speak with the 

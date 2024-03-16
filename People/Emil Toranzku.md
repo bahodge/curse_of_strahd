@@ -1,0 +1,1 @@
+Friendly werewolf male and husband to [[Zulika Toranzku]].

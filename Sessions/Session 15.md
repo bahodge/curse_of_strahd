@@ -4,7 +4,7 @@ We have 2 days left until we need to get to the [[Castle Ravenloft]]. It is rath
 
 ## Western Vellaki
 
-We come across a camp and meet 2 hunters, [[Szoldnar]] and [[Yevgenni]].  These are the hunters that [[Milevoj]] hired to find the boys. [[Sumrak]] calls out one of the boy's name and he turns. We fight a horde of wolves and werewolves. We meed [[Zulika Toranzku]], a priestess of mother night. We will the hunters who were holding the children. We speak with [[Emil]], [[Zulika Toranzku]]. They are enemies of [[Kiril Tsoylonovich]]. [[Hanz]] and [[Franz]] rip of their necklaces to hand to [[Milevoj]] as proof that they are doing well.
+We come across a camp and meet 2 hunters, [[Szoldnar]] and [[Yevgenni]].  These are the hunters that [[Milevoj]] hired to find the boys. [[Sumrak]] calls out one of the boy's name and he turns. We fight a horde of wolves and werewolves. We meed [[Zulika Toranzku]], a priestess of mother night. We will the hunters who were holding the children. We speak with [[Emil Toranzku]], [[Zulika Toranzku]]. They are enemies of [[Kiril Tsoylonovich]]. [[Hanz]] and [[Franz]] rip of their necklaces to hand to [[Milevoj]] as proof that they are doing well.
 
 [[Sumrak]] is a werewolf.
 
