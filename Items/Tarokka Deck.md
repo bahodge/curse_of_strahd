@@ -1,0 +1,1 @@
+Used by the [[Vistani]] to see the future.

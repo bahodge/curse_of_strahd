@@ -30,6 +30,13 @@ We head to the [[Abby of Kresk]] and [[Fyndal Kayne]] hugs a statue and [[Vayl V
 
 We reach [[Burgomaster Dimitri Kreskov]] and the son is resurrected. We learn that the price of the resurrection is a white wedding dress.
 
-We leave the village to head towards the [[Western Vistani Camp]] camp. About halfway to the town, we hear howling. And [[Sumrak]] lets us know that the howling we hear is likely not an attack. Out of the woods we see [[Zulika Toranzku]] in her werewolf form. She approaches [[Sumrak]], and informs her that her husband [[Emil Toranzku]], went to confront the hostile werewolf pack. [[Sumrak]] is given 2 sickles to control her wild shape. We continue towards the [[Western Vistani Camp]] camp.
+## Road to Western Vistani camp
 
-We speak with the 
+We leave the village to head towards the [[Western Vistani Camp]] camp. About halfway to the town, we hear howling. And [[Sumrak]] lets us know that the howling we hear is likely not an attack. Out of the woods we see [[Zulika Toranzku]] in her werewolf form. She approaches [[Sumrak]], and informs her that her husband [[Emil Toranzku]], went to confront the hostile werewolf pack. [[Sumrak]] is given 2 sickles to control her wild shape. We continue towards the [[Western Vistani Camp]] camp.
+## Western Vistani Camp
+
+We speak with the leaders of the [[Vistani]] camp and inform them of the origin of [[Count Strahd von Tzarovich|Strahd]].  [[Aribella]] gives [[Fyndal Kayne]] a [[Tarokka Deck]]. We also deliver the wine and receive 25GP. We continue to the [[Town of Velakki]].
+
+##  Town of Velakki
+
+We head to our house on Poor street. We refill [[Fyndal Kayne]]'s wine reserves. We head to the [[Velakki Inn]] and deliver the wine to [[Irwin]]. [[Irwin]] is over the moon. For delivering the wine we are granted free room and board at the [[Velakki Inn]].

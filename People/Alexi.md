@@ -1,1 +1,1 @@
-Guardian of [[Aribel]].
+Guardian of [[Aribella]].

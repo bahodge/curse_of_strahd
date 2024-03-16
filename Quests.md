@@ -19,9 +19,9 @@
 
 - [ ] [[Leopard von Doyle]] wants us to investigate the disappearance [[Bluto]] at [[Lake Tzarovich]].
 	- we discovered [[Bluto]]'s address as 4 Poor Street in [[Town of Velakki|Velakki]].
-	- his house is empty and we search his home. We find the doll and clothes of a small girl named [[Aribel]].
-	- We get to [[Lake Tzarovich]] and see [[Bluto]] trying to throw [[Aribel]] into the lake.
-	- We rescue [[Aribel]] from [[Bluto]].
+	- his house is empty and we search his home. We find the doll and clothes of a small girl named [[Aribella]].
+	- We get to [[Lake Tzarovich]] and see [[Bluto]] trying to throw [[Aribella]] into the lake.
+	- We rescue [[Aribella]] from [[Bluto]].
 	- [[Bluto]] say's that he was sacrificing her to a leviathan in the lake. We take [[Bluto]] back to the [[Vistani]] camp outside of town to judgement.
 - [x] [[Burgomaster "Baron" Vargas Velokovich]] asked us to attend the [[Valakki Weekly Festival]] to receive a reward for defeating the [[Shadow Demon]].
 - [ ] Take a necklace to [[Cyrus Bellevue]] in [[Castle Ravenloft]].
@@ -66,7 +66,7 @@
 	- We delivered the letter to [[Head Matron Claudia Belasco]].
 - [[Burgomaster "Baron" Vargas Velokovich]] wants us to "remove" [[Lady Fiona Wakter]].
 	- ~~Fuck this guy.
-- Find [[Aribel]] for the [[Luvosh]].
+- Find [[Aribella]] for the [[Luvosh]].
 - [[Father Lucian Petrovich]] needs us to find the bones of [[Saint Andarel]]
 	- [[Milevoj]] overheard a conversation with [[Yeska]] and likely knows the location of the bones.
 	- [[Milevoj]] is incapacitated and we need to wait until he is well enough to speak to.

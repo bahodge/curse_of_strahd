@@ -1,1 +1,0 @@
-A [[Vistani]] child that owns a doll found in [[Bluto]]'s home.

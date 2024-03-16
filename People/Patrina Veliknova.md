@@ -1,1 +1,1 @@
-Grandmother of [[Vayl Veliknova]]
+Grandmother of [[Vayl Veliknova]].
