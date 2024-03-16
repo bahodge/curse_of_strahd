@@ -1,0 +1,1 @@
+A devout companion of [[Count Strahd von Tzarovich]] who is a [[Dusk Elf]]. He carried a very distinct weapon that followed him around.

@@ -1,0 +1,1 @@
+The camp to the west of the [[Town of Velakki]]. Home of [[Kasimir]].

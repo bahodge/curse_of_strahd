@@ -1,0 +1,1 @@
+A rundown and poor town lead by [[Burgomaster Ismark Koylanovich]] and the spiritual leader [[Father Donovich]]. Inhabited by [[Souless]] and non-souless inhabitant alike. the wealthy [[Durst Family]] owned a mansion nearby. [[Granny Morgan]] travels to the town from time to time.

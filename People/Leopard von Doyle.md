@@ -1,0 +1,1 @@
+Landlord of the vendors in the [[Town of Velakki]]. Prefers the name "Leo".

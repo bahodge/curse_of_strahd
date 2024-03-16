@@ -1,0 +1,1 @@
+A powerful spell caster that lures people and children into their lair. They are extremely powerful within their coven.

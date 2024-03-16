@@ -1,0 +1,1 @@
+Mage tower to the west of the [[Town of Velakki]] where [[Rudolph Van Richten]] has been hiding out.

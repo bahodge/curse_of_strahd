@@ -1,0 +1,1 @@
+The church is located in the [[Town of Velakki]] and headed by [[Father Lucian Petrovich]] and a few alter boys, [[Yeska]] among them. The church honors [[Saint Andarel]] and is consecrated using his bones. The bones disappeared, as [[Yeska]], accidentally conveyed this to [[Milevoj]] in passing.

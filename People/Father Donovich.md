@@ -1,0 +1,1 @@
+Prime suspect in the murder of [[Koylan]]. He was the head of the Church of the [[Morning Lord]] in the [[Village of Barovia]]. He tried to hide his crimes but we ultimately were able to prove he was guilty.

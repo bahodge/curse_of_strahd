@@ -1,0 +1,1 @@
+Leader of the [[Village of Barovia]] and son of [[Koylan]].

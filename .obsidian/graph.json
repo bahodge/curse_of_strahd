@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "sumrak",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Session",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2.5,
+  "nodeSizeMultiplier": 1.06979166666667,
+  "lineSizeMultiplier": 3.26458333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.25,
+  "repelStrength": 6.66666666666667,
+  "linkStrength": 0.322916666666667,
+  "linkDistance": 140,
+  "scale": 0.5625935927676868,
+  "close": true
+}

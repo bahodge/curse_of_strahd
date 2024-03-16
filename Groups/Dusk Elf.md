@@ -1,0 +1,1 @@
+They look similarly to Dark Elves but are hinted at being some sort of experiment. [[Vayl Veliknova]] is a dusk elf.

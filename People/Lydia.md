@@ -1,0 +1,1 @@
+Works at the [[Mansion of Burgomaster Velokovich]].

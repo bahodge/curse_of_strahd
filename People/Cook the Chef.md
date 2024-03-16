@@ -1,0 +1,1 @@
+Works for [[Burgomaster "Baron" Vargas Velokovich]] at the [[Mansion of Burgomaster Velokovich]].

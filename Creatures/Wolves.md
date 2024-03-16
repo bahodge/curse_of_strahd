@@ -1,0 +1,1 @@
+A large wolf is a common form that [[Count Strahd von Tzarovich]] appears in. 

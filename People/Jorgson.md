@@ -1,0 +1,1 @@
+Sold to [[Granny Morgan]] in the [[Village of Barovia]]. 

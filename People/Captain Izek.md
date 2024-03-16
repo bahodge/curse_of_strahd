@@ -1,0 +1,1 @@
+The leader of the city guard in the [[Town of Velakki]] guard is a disfigured brute and arrested [[Udo Lucovich]].  We met him with the [[Burgomaster "Baron" Vargas Velokovich]] and is very confident. He is disfigured and one of his arms is horribly disfigured and hot to the touch.

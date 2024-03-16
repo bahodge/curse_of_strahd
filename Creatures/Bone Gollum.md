@@ -1,0 +1,1 @@
+An amalgamation of bones and flesh that was controlled by the spirit of [[Walter Durst]]

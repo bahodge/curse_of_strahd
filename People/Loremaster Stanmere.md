@@ -1,0 +1,1 @@
+The loremaster is a [[Vistani]] and asks us to tell him stories. He introduces us to [[Madam Ava]]. 

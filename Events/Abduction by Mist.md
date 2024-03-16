@@ -1,0 +1,1 @@
+A mysterious mist descended upon the adventurers and brought them to the [[Kingdom of Barovia]]. The mist brought all of us together, [[Marcus Darkhelm]], [[Saraphina Blackwood]], [[Sumrak]], [[Fyndal Kayne]] and [[Vayl Veliknova]].

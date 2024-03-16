@@ -1,0 +1,1 @@
+An old lover of [[Count Strahd von Tzarovich]].

@@ -1,0 +1,30 @@
+Journal belonging to [[Barononette Victor Velokovich]].
+
+---
+Entry 1 - My miserable parents have found yet another way to drive me mad. It’s not enough that they drag me down to their meals and force me to sit in on their boring meetings. No, now they’re finding new ways to ruin my work by shoving this vapid little girl into my life. Her voice, her face, her very being is pure frustration to me. Surely if I keep trying to work in front of her, she’ll get all scared and tell my parents what I am doing. How can I get myself out of this mess?
+
+Entry 2 - I might be in trouble. That irritating little girl got sent up into my workroom with me. “Spend some time with her, you need to get to know each other!” I don’t want to get to know this stupid girl, I want to be left alone! She kept trying to talk to me, interrupting the little bits of work I could do in front of someone else. I cast a Fear spell on her to shut her up, drive her away from me. She spent the next minute cowering in the furthest corner of the room. But by the time the spell ended, I realized what I had done. She’ll tell someone what happened! I used one of my harder spells on her. I MADE her forget about the spell. I hope it was enough... I’ve never used magic on a person before…
+
+Entry 3 - I’m not in trouble! I’ve never been happier to see that round little face at my door. The magic worked! She doesn’t know what happened! She actually apologized for her panic attack and for embarrassing herself in front of me and assured me she wasn’t normally like that. On the other hand. I’m stuck with her again. But maybe that’s a good thing. I have a lot to learn about magic, after all.
+
+Entry 4 - Somehow, I forgot how ignorant everyone in this stupid town is. I don’t know why I worried so much. The stupid girl doesn’t know anything about magic. I tried some more out on her today and even before I erased it from her mind, she didn’t know what was happening. Still, best to be careful. I couldn’t resist pulling a little prank on her, though. As she was leaving the house today, I gave her a little illusion that only she could see. All the people that came running when she started screaming was pathetic.
+
+Entry 5 - This is incredible! Magic is incredible! I’m like a god! I command her and she obeys, I wish her to be frightened and she is. And all the while she doesn’t know what is happening! Today, I finally used a spell on her that I have never been able to actually cast before. It only works on people. The spell seized control of her and bent her to my will, she could do nothing that I did not let her, yet she was aware the whole time! But, using that spell prevents me from being able to alter her memory until tomorrow. So, I killed two birds with one stone on that one. I both got to see the extent to which I could control her, and embarrass her enough that it was simplicity itself to plant the idea that she shouldn’t speak of this to anyone and come back tomorrow morning.
+
+Entry 6 - As I expected, the stupid girl came back this morning, red-faced and quiet. I tidied up her memories, then sent her on her way. I couldn’t do anything too blatant to her today, since I’d already changed her memories once. So, I decided to have a little fun, instead. A few illusions no one else could see, a spell to scramble her stupid brain, and she caused quite a scene.
+
+Entry 7 - The stupid girl didn’t show up today, I guess she’s playing sick after her little episode yesterday. That just won’t do, I have more things I want to test. There’s another spell I haven’t tried yet. It’s supposed to let me enter someone’s dreams and control what they see.
+
+Entry 8 - Well, it worked. The stupid girl is back. But now that she is, I realize how much of my time she has been taking up. Even under my control, she’s still a nuisance. A distraction. Oh well, I’ve learned a lot about my magic because of her. I think I’ll just have her play with the cats while I work.
+
+Entry 9 - The stupid girl is getting annoying again. She’s acting weird and can’t seem to keep a straight thought in her head until I pound that stupid brain into shape with a spell. But, she’s also becoming more responsive to the spell Suggestion, so I don’t have to work as hard to make her do what I want. Just playing with the cats isn’t enough to keep her out of my hair. Maybe I can get her to pretend she is a cat. Meowing doesn’t distract me.
+
+Entry 10 - This is working out great. The stupid girl stays out of my way, a quick spell shoves her into her role as a cat, and from there she obeys me without needing more magic. I can finally focus on what’s important…and she’s still handy if I get too frustrated. Even when my work is at its hardest, it’s always satisfying to see my power in action
+
+Entry 11 - Dad says the stupid girl isn’t coming back. Apparently, she woke up stuck in her role, acting like a cat. I suppose this was bound to happen eventually, her stupid little brain just couldn’t handle magic. A couple of stupid adults wanted to talk to me and find out what happened. It was easy to ‘convince’ them that I’d had some arguments with the stupid girl, said some things I ‘regret,’ and that was probably the cause. Ignorant, weak-willed idiots. It’s a shame, too. I’d finally gotten used to her. I guess I can admit that when she wasn’t annoying me, she was a nice piece of scenery to have around. Especially this last week. Maybe once I finish my work, I’ll take her with me. She’s already shown herself a good test subject and it would be a nuisance to have to break another one in.
+
+Entry 12 - I think it’s ready. Maybe now I can finally get out of this place. It’s a shame the stupid girl isn’t here, I could have her try it out for me. I’m certainly not trying it first. Maybe one of the servants… This really is the best day, I can finally get away from here!
+
+Entry 13 - Evidently, it’s not ready. Will keep trying.
+
+Entry 14 - What am I doing wrong!?

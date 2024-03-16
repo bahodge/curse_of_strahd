@@ -1,0 +1,1 @@
+The people who live in the mountains who live at [[Yester Hill]]. They may be allied with [[Count Strahd von Tzarovich]].

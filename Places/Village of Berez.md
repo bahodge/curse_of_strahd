@@ -1,0 +1,1 @@
+A village destroyed by [[Count Strahd von Tzarovich]].

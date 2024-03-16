@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "1ca14c027369daa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3b0e93cd35e1b30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c57c049c4aa10e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f73c58ab98313fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b603b1a1ce314fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c24617d8c347a8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd00f3a22a64e000",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb750a7315087ea4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e8b98b1f8ccf368",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fe7b9fd6f08ddf41",
+    "type": "split",
+    "children": [
+      {
+        "id": "da0cddf6e53f94ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef18cac1dac403ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54ca177f988cccfb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session 21.md"
+              }
+            }
+          },
+          {
+            "id": "13a6241c29cece7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session 21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "824ba599ec9a2dd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session 21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5987b5147e80f866",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c57c049c4aa10e2c",
+  "lastOpenFiles": [
+    "Session 21.md",
+    "Sessions/Session 20.md",
+    "Untitled.md",
+    "Places/Gulthias Tree.md",
+    "Sessions/Session 19.md",
+    "Untitled.canvas",
+    "2024-02-24.md",
+    "Items/Gulthias Staff.md",
+    "Sessions/Session 18.md",
+    "Sessions/Session 17.md",
+    "Sessions/Session 5 - Reading.md",
+    "Quests.md",
+    "Groups/Vensha Family.md",
+    "Items/Brief History of Barovia.md",
+    "People/Adrien Vensha.md",
+    "People/Elver Vensha.md",
+    "Groups/Vistani.md",
+    "Groups/Wildfolk.md",
+    "Creatures/Ravens.md",
+    "Creatures/Bone Gollum.md",
+    "People/Davian Vensha.md",
+    "Sessions/Session 14.md",
+    "Places/Velakki Inn.md",
+    "People/Gell Wiildheart.md",
+    "People/Orlin Wiildheart.md",
+    "Items/Book of flora and fauna of Barovia.md",
+    "Items/History of the Old Gods.md",
+    "Images/strahd_von_tsarovich.png",
+    "Images/strahd 1.png",
+    "Images/claudia_belasco.png",
+    "Images",
+    "Quests",
+    "Sessions",
+    "Groups",
+    "Items/Untitled",
+    "Items",
+    "Events",
+    "Creatures",
+    "Events",
+    "Background"
+  ]
+}

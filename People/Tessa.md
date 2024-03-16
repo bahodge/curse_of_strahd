@@ -1,0 +1,1 @@
+A young girl living in the [[Velakki Orphanage]] who granted us some information about the [[Town of Velakki]] and dislikes many the weekly 

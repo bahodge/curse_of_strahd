@@ -1,0 +1,1 @@
+Male bride of [[Count Strahd von Tzarovich]]. He was captured and married to strahd after attempting to kill him with [[Retavio the Great]] & [[Esmeralda D'avenir]].

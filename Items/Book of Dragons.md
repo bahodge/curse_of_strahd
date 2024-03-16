@@ -1,0 +1,1 @@
+Book given to [[Sumrak]] by [[Count Strahd von Tzarovich]]

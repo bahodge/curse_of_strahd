@@ -1,0 +1,6 @@
+We are walking through the forest towards the [[Durst Mill]] and we spoke with [[Ophilia]] and about ravens. She is very nervous and we detect that she is sending more information to [[Granny Morgan]] and [[Bella]]. We enter the [[Durst Mill]]. We find [[Jorgson]] inside. We ask about the wolf hunters and she said that there is a [[Wolf Hunter Jamboree]]. [[Ophilia]] gives us a tour of the mill. We go down to the basement of the mill and see [[Felix]]. We speak with all the kids in the basement and they all say that they are happy. We play jacks and they are made out of bones. As we are speaking with the kids [[Saraphina Blackwood|Saraphina]] walks in and the party is now back together. [[Granny Morgan]], [[Ophilia]] & [[Bella]] all turned into hags. We killed [[Ophilia]] and began dealing with [[Granny Morgan]] to strike a deal.
+
+We fought the hags. We bargained with them and we agreed to bring an item to a minion within [[Castle Ravenloft]]. We agree that [[Granny Morgan]] will use a sending stone to update us on anything happening within [[Castle Ravenloft]]. [[Cyrus Bellevue]] is the person inside of [[Castle Ravenloft]] who we need to take things to.
+
+Next Session:
+- unknown?

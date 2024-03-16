@@ -1,0 +1,1 @@
+Vendors that sell all odds and ends in the [[Town of Velakki]]. Located on the south east side of the city. The landlord of the vendors is [[Leopard von Doyle]].

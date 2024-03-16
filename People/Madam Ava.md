@@ -1,0 +1,1 @@
+A soothsayer with the [[Vistani]] who prophesied and helped guide us.

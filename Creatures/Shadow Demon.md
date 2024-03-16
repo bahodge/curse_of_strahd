@@ -1,0 +1,1 @@
+A shadow that possessed [[Felix]] in the [[Velakki Orphanage]]. It gets stronger the lighter a room is as there are more shadows cast.

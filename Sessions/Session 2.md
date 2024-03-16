@@ -1,0 +1,1 @@
+We finish the [[Durst Mansion]] by fighting a [[Bone Gollum]]. 

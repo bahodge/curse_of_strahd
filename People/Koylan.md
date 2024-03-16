@@ -1,0 +1,1 @@
+An ex Burgomaster of the [[Village of Barovia]] who was murdered. We found correspondence between he and [[Father Donovich]] discussing feeding his son [[Doru Donovich]] with people and undesirables in the village. We confirmed that this disagreement was the reason he was killed by [[Father Donovich]].

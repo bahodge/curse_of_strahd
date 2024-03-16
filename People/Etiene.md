@@ -1,0 +1,1 @@
+A random villager invited to the [[Dinner at Castle Ravenloft]] as a plus one of [[Saraphina Blackwood]].

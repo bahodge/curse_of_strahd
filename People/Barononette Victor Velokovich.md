@@ -1,0 +1,1 @@
+Son of [[Burgomaster "Baron" Vargas Velokovich]] and was betrothed to the daughter of [[Lady Fiona Wakter]]. He is doing some dark magics.

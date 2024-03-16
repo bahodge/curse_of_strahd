@@ -1,0 +1,1 @@
+A bird that seemed to disuade us from entering [[Granny Morgan]]'s bakery.

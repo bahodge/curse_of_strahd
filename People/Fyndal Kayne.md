@@ -1,0 +1,1 @@
+A bard we met at the College of Spirits and helped us learn more about the whereabouts of [[Rudolph Van Richten]].

@@ -1,0 +1,1 @@
+A sorcerer and really hates vampires. [[Vayl Veliknova]] and she got along immediately with this common hatred.

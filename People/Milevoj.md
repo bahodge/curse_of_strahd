@@ -1,0 +1,1 @@
+The gravekeeper for the [[Church of Saint Andarel]]. He lives the [[Velakki Orphanage]] and was discovered .

@@ -1,0 +1,1 @@
+A teifling hexblade (Nick). We met after being transported by mysterious mist that transported us to the [[Kingdom of Barovia]].

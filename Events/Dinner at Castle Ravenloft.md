@@ -1,0 +1,1 @@
+We were invited by [[Count Strahd von Tzarovich]] by way of [[Rahadeen]] for a dinner at [[Castle Ravenloft]]. We must learn the traditional dances of the [[Kingdom of Barovia]].

@@ -1,0 +1,1 @@
+A temple located in the [[Mount Ghak's]].

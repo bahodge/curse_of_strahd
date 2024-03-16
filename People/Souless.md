@@ -1,0 +1,1 @@
+People who are born devoid of love, emotions or deep thought. Generally perform menial tasks.

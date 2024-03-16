@@ -1,0 +1,1 @@
+Leader of the [[Church of Saint Andarel]]. Discovered that the bones of [[Saint Andarel]] were removed from the church. Sent us on a quest to try and recover the bones.

@@ -1,0 +1,1 @@
+Ex [[Vistani]] mentee of [[Rudolph Van Richten]].

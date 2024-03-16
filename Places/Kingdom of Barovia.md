@@ -1,0 +1,1 @@
+A kingdom under the control of the [[Count Strahd von Tzarovich]]. 

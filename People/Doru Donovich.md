@@ -1,0 +1,1 @@
+Son of [[Father Donovich]]. Led a revolt against [[Count Strahd von Tzarovich]], failed and disappeared for a while. We found him under the church in the [[Village of Barovia]]. We fought and killed him and [[Father Donovich]]. [[Count Strahd von Tzarovich|Strahd]] benefited from us killing him.

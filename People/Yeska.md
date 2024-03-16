@@ -1,0 +1,1 @@
+An alter boy at the [[Church of Saint Andarel]] in training to become a full priest. A very likely candidate as a replacement for the priest at the [[Village of Barovia]].

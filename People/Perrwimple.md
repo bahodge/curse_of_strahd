@@ -1,0 +1,1 @@
+A strong shop laborer that helped us fight [[Doru Donovich]] and [[Father Donovich]] in the [[Village of Barovia]] beneath the church.

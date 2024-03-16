@@ -1,0 +1,1 @@
+Older dusk elf in a [[Vistani]] camp near [[Town of Velakki]]

@@ -1,0 +1,1 @@
+A mill where [[Granny Morgan]] bakes here [[Dream Pies]]. The mill is located near the [[Village of Barovia]].

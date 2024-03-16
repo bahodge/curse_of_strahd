@@ -1,0 +1,3 @@
+An 8 year old boy who was possessed by an [[Shadow Demon]], [[Zagral]] within the [[Velakki Orphanage]]. We found him torturing a girl with a dagger in the attic. His parents were killed and no killer was found. He arrived with a locket of a man and a woman when he arrived to the [[Velakki Orphanage|Orphanage]]. The locket is made out of gold.
+
+[[Felix]] says that his parents were killed by a shadow and he just woke up at the [[Velakki Orphanage]].
