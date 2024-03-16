@@ -39,7 +39,7 @@
 - [x] [[Burgomaster Dimitri Kreskov]] wants us to bring a cart of wine from the [[Wizards of Wine]] vineyard for the [[Village of Kresk]].
 - [ ] Learn the true cause of [[Burgomaster Dimitri Kreskov]]'s son's death
 	- the abbot has not left the Abby in weeks
-	- 
+	- [ ] find a white wedding dress to pay the [[Abby of Kresk]] for resurrecting the son. 
 
 ### Wizards of Wine
 

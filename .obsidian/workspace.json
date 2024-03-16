@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c57c049c4aa10e2c",
+            "id": "dbcfb3bbf48f1e89",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,69 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dbcfb3bbf48f1e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22b64e61c22c4814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d409101ae250fc33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d021d5718e976e26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeca2902447b7fad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Otto Bellevue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Otto Bellevue.md"
+                "file": "Quests.md"
               }
             }
           },
@@ -176,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Otto Bellevue.md",
+                "file": "Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Otto Bellevue.md",
+                "file": "Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,10 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eeca2902447b7fad",
+  "active": "dbcfb3bbf48f1e89",
   "lastOpenFiles": [
     "Session 21.md",
-    "People/Zigfrik Bellvue.md",
+    "People/Count Strahd von Tzarovich.md",
+    "People/Zygfrek Bellevue.md",
     "People/Otto Bellevue.md",
     "Creatures/Mongrelfolk.md",
     "mongrel.md",
@@ -264,7 +204,6 @@
     "Sessions/Session 19.md",
     "Untitled.canvas",
     "2024-02-24.md",
-    "Items/Gulthias Staff.md",
     "Images/strahd_von_tsarovich.png",
     "Images/strahd 1.png",
     "Images",
