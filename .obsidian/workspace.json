@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Werewolf Den.md",
+                "file": "Places/Werewolf Den.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,8 +180,11 @@
   },
   "active": "dbcfb3bbf48f1e89",
   "lastOpenFiles": [
-    "Werewolf Den.md",
+    "People/Sumrak.md",
     "Session 21.md",
+    "Places/Werewolf Den.md",
+    "People/Kiril Tsoylonovich.md",
+    "Images/kiril.png",
     "Quests.md",
     "Sessions/Session 5 - Reading.md",
     "Sessions/Session 4.md",
@@ -204,8 +207,6 @@
     "People/Argynvostholt.md",
     "Places/Town of Velakki.md",
     "People/Count Strahd von Tzarovich.md",
-    "People/Zygfrek Bellevue.md",
-    "People/Otto Bellevue.md",
     "Images/mongrelkin_2.png",
     "Images/mongrelkin_1.png",
     "Images/mongrelkin_2",
@@ -217,7 +218,6 @@
     "Images/muriel_vensha.png",
     "Untitled.canvas",
     "Images/strahd_von_tsarovich.png",
-    "Images/strahd 1.png",
     "Images",
     "Quests",
     "Sessions",
