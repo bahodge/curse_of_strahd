@@ -1,0 +1,1 @@
+A majestic abby in the center of the [[Village of Kresk]].

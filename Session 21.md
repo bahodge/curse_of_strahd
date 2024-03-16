@@ -14,3 +14,13 @@ We decide to head to the [[Village of Kresk]] with [[Adrien Vensha]] and [[Murie
 
 We should speak to the [[Burgomaster Dimitri Kreskov]]. We learn that the [[Abbot of Kresk]] has not left his church since the [[Dinner at Castle Ravenloft]], weeks ago.
 We are paid 50gp for delivering the wine to [[Village of Kresk]]. We learn that the son of [[Burgomaster Dimitri Kreskov]] has just died of a mysterious illness, he was 14 years old. [[Fyndal Kayne]] says that the symptoms are very similar to the symptoms people suffered from in the [[Village of Barovia]].
+
+We speak to a blacksmith and get a quote on plate armor
+- 1500GP without any ore
+- 750GP with ore
+- negotiable if we take care of the werewolves and help [[Burgomaster Dimitri Kreskov]]
+
+The blacksmith notices the silver coffer from 
+
+We head to the [[Abby of Kresk]] and [[Fyndal Kayne]] hugs a statue and [[Vayl Veliknova]] skips a rock further than [[Fyndal Kayne]], again proving how awesome she is. Nothing happens. 
+
