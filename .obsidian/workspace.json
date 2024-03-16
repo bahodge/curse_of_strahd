@@ -20,67 +20,18 @@
             }
           },
           {
-            "id": "27fb257270564ba5",
+            "id": "3766724413482ee3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d4c5b87d53f53cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Zulika Toranzku.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce3c3c509d0d89e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a8e83498e8eb707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a0db0bbae91e5f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 21.md",
+                "file": "Werewolf Den.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,11 +178,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a0db0bbae91e5f2",
+  "active": "dbcfb3bbf48f1e89",
   "lastOpenFiles": [
-    "Items/Tarokka Deck.md",
+    "Werewolf Den.md",
     "Session 21.md",
     "Quests.md",
+    "Sessions/Session 5 - Reading.md",
+    "Sessions/Session 4.md",
+    "Items/Tarokka Deck.md",
     "People/Aribella.md",
     "Places/Amber Temple.md",
     "Places/Ghak's Mountains.md",
@@ -252,12 +206,9 @@
     "People/Count Strahd von Tzarovich.md",
     "People/Zygfrek Bellevue.md",
     "People/Otto Bellevue.md",
-    "Creatures/Mongrelfolk.md",
-    "mongrel.md",
     "Images/mongrelkin_2.png",
     "Images/mongrelkin_1.png",
     "Images/mongrelkin_2",
-    "Places/Village of Kresk.md",
     "Images/village_of_kresk.png",
     "Images/gell_wildheart.jpg",
     "Images/sumrak_portrait.png",

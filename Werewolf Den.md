@@ -1,0 +1,1 @@
+A cave filled with werewolves overlooking [[Village of Kresk]]. A wide torch lit cave looks like a gaping maw of a wolf.
