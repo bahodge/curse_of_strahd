@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests.md",
+                "file": "Session 21.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests.md"
+                "file": "Session 21.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests.md",
+                "file": "Session 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests.md",
+                "file": "Session 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,13 @@
   },
   "active": "dbcfb3bbf48f1e89",
   "lastOpenFiles": [
+    "Quests.md",
     "Session 21.md",
+    "Places/Kingdom of Barovia.md",
+    "Events/Abduction by Mist.md",
+    "People/Argynvostholt.md",
+    "People/Aribel.md",
+    "Places/Town of Velakki.md",
     "People/Count Strahd von Tzarovich.md",
     "People/Zygfrek Bellevue.md",
     "People/Otto Bellevue.md",
@@ -181,7 +187,6 @@
     "Images/village_of_kresk.png",
     "Places/Abby of Kresk.md",
     "People/Gell Wiildheart.md",
-    "Quests.md",
     "Images/gell_wildheart.jpg",
     "People/Sumrak.md",
     "Images/sumrak_portrait.png",
@@ -198,12 +203,7 @@
     "Creatures/Spirit of the Huntress.md",
     "Items/History of the Old Gods.md",
     "Items/Bloodaxe of Orland.md",
-    "Sessions/Session 20.md",
-    "Untitled.md",
-    "Places/Gulthias Tree.md",
-    "Sessions/Session 19.md",
     "Untitled.canvas",
-    "2024-02-24.md",
     "Images/strahd_von_tsarovich.png",
     "Images/strahd 1.png",
     "Images",

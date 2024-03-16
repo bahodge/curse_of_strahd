@@ -29,3 +29,5 @@ We head to the [[Abby of Kresk]] and [[Fyndal Kayne]] hugs a statue and [[Vayl V
 [[Otto Bellevue]] and the [[Abbot of Kresk]] return and greet us. We inform him of the death of the [[Burgomaster Dimitri Kreskov]]'s son and no one has ACTUALLY spoken to the [[Abbot of Kresk]]. We leave back to the burgomaster with the abbot.
 
 We reach [[Burgomaster Dimitri Kreskov]] and the son is resurrected. We learn that the price of the resurrection is a white wedding dress.
+
+We leave the village to head towards the [[Western Mage Tower]].

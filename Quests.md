@@ -9,7 +9,7 @@
 		- We make our way to the [[Wizards of Wine]] vineyard and help the [[Vensha Family]] with the [[Wildfolk]]. We kill all of the [[Wildfolk]] and learn a family gem was stolen and taken to [[Yester Hill]].
 		- We are now ingratiated with the ravens ([[Vensha Family]])
 	- [ ] The Abjurer (weapon). Old house, guarded by stone dragon, look to highest peak. 
-		-  [[Argon Vashtolt]]
+		-  [[Argynvostholt]]
 	- [ ] The Tempter (ally). Hear wedding bells or death knell. Find a woman in an Abby where we will find a woman who is more than the sum of her parts. 
 		- Abbey at the [[Village of Kresk]]
 	- [ ] The Executioner (enemy). Dark figure on a balcony, looking down on the land with a twisted smile.
@@ -39,8 +39,10 @@
 - [x] [[Burgomaster Dimitri Kreskov]] wants us to bring a cart of wine from the [[Wizards of Wine]] vineyard for the [[Village of Kresk]].
 - [ ] Learn the true cause of [[Burgomaster Dimitri Kreskov]]'s son's death
 	- the abbot has not left the Abby in weeks
-	- [ ] find a white wedding dress to pay the [[Abby of Kresk]] for resurrecting the son. 
-
+	- [ ] We have 1 month to find a white wedding dress to pay the [[Abby of Kresk]] for resurrecting the son. the [[Burgomaster Dimitri Kreskov]] is willing to help us commission a dress for a few hundred GP.
+- [ ] [[Burgomaster Dimitri Kreskov]] has asked us into the disappearance of dead bodies
+- [ ] Deal with the werewolves surrounding the city.
+ 
 ### Wizards of Wine
 
 - [ ] We need to take wine deliveries to [[Village of Kresk]], [[Town of Velakki]] and the [[Western Vistani Camp]]. We have 6 casks total.
