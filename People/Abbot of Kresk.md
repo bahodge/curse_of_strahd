@@ -1,0 +1,1 @@
+We met them at the [[Dinner at Castle Ravenloft]] and he was very friendly. He is a human and apparently centuries old.

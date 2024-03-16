@@ -2,29 +2,31 @@
 
 ### Main Quests
 - [[Madam Ava]] gave us a reading
-	- Necromancer of Stars (history). Woman hanging above a roaring fire. Find her, find the treasure 
-	-  The Rogue (protection). A nest of ravens, ingratiate yourself within it and find our prize (the [[Holy Crest of Raven-Kind]]) 
+	- [x] Necromancer of Stars (history). Woman hanging above a roaring fire. Find her, find the treasure 
+		-  [[Tome of Strahd]]
+	- [x]  The Rogue (protection). A nest of ravens, ingratiate yourself within it and find our prize (the [[Holy Symbol of Raven-Kind]]) 
 		-  We meet [[Muriel Vensha]] who is a raven. She and [[Irwin]] need help receiving their shipment of win
 		- We make our way to the [[Wizards of Wine]] vineyard and help the [[Vensha Family]] with the [[Wildfolk]]. We kill all of the [[Wildfolk]] and learn a family gem was stolen and taken to [[Yester Hill]].
 		- We are now ingratiated with the ravens ([[Vensha Family]])
-	- The Abjurer (weapon). Old house, guarded by stone dragon, look to highest peak. [[Argon Vashtolt]]
-	- The Tempter (ally). Hear wedding bells or death knell. Find a woman in an Abby where we will find a woman who is more than the sum of her parts. 
+	- [ ] The Abjurer (weapon). Old house, guarded by stone dragon, look to highest peak. 
+		-  [[Argon Vashtolt]]
+	- [ ] The Tempter (ally). Hear wedding bells or death knell. Find a woman in an Abby where we will find a woman who is more than the sum of her parts. 
 		- Abbey at the [[Village of Kresk]]
-	- The Executioner (enemy). Dark figure on a balcony, looking down on the land with a twisted smile.
+	- [ ] The Executioner (enemy). Dark figure on a balcony, looking down on the land with a twisted smile.
 - Attend a dinner to [[Castle Ravenloft]] with the invitation of [[Count Strahd von Tzarovich]] in 4 days (since the festival of the blazing sun)
 
 ### Town of Vellaki
 
-- [[Leopard von Doyle]] wants us to investigate the disappearance [[Bluto]] at [[Lake Tzarovich]].
+- [ ] [[Leopard von Doyle]] wants us to investigate the disappearance [[Bluto]] at [[Lake Tzarovich]].
 	- we discovered [[Bluto]]'s address as 4 Poor Street in [[Town of Velakki|Velakki]].
 	- his house is empty and we search his home. We find the doll and clothes of a small girl named [[Aribel]].
 	- We get to [[Lake Tzarovich]] and see [[Bluto]] trying to throw [[Aribel]] into the lake.
 	- We rescue [[Aribel]] from [[Bluto]].
 	- [[Bluto]] say's that he was sacrificing her to a leviathan in the lake. We take [[Bluto]] back to the [[Vistani]] camp outside of town to judgement.
-- [[Burgomaster "Baron" Vargas Velokovich]] asked us to attend the [[Valakki Weekly Festival]] to receive a reward for defeating the [[Shadow Demon]].
-- Take a necklace to [[Cyrus Bellevue]] in [[Castle Ravenloft]].
-- We inform them of us helping [[Father Lucian Petrovich]] to deliver the bones of [[Saint Andarel]]. We learn that that they are wereravens. We learned that [[Count Strahd von Tzarovich|Strahd]] killed the old gods.
-- [[Lady Fiona Wakter]] wants us to help her daughter [[Stella Wakter]].
+- [x] [[Burgomaster "Baron" Vargas Velokovich]] asked us to attend the [[Valakki Weekly Festival]] to receive a reward for defeating the [[Shadow Demon]].
+- [ ] Take a necklace to [[Cyrus Bellevue]] in [[Castle Ravenloft]].
+- [ ] We inform them of us helping [[Father Lucian Petrovich]] to deliver the bones of [[Saint Andarel]]. We learn that that they are wereravens. We learned that [[Count Strahd von Tzarovich|Strahd]] killed the old gods.
+- [ ] [[Lady Fiona Wakter]] wants us to help her daughter [[Stella Wakter]].
 	- Find a way to cast Greater Restoration on [[Stella Wakter]].
 	- We learn the [[Abbot of Kresk]] can likely help her.
 ### Mage Tower
@@ -32,10 +34,23 @@
 - Find [[Rudolph Van Richten]].
 	- meet [[Rudolph Van Richten]] at the mage tower in the [[Town of Velakki]].
 	- We found [[Rudolph Van Richten]] and explored the mage tower a bit, we need to go back and help him perform more research on defeating [[Count Strahd von Tzarovich]].
-
 ### Village of Kresk
 
-- [[Burgomaster Dimitri]] wants us to bring a cart of wine from the [[Wizards of Wine]] vineyard for the [[Village of Kresk]].
+- [x] [[Burgomaster Dimitri Kreskov]] wants us to bring a cart of wine from the [[Wizards of Wine]] vineyard for the [[Village of Kresk]].
+- [ ] Learn the true cause of [[Burgomaster Dimitri Kreskov]]'s son's death
+	- the abbot has not left the Abby in weeks
+	- 
+
+### Wizards of Wine
+
+- [ ] We need to take wine deliveries to [[Village of Kresk]], [[Town of Velakki]] and the [[Western Vistani Camp]]. We have 6 casks total.
+- 3 [[Town of Velakki]]
+- 2 [[Village of Kresk]]
+- 1 [[Vistani]]
+- [ ] Recover family gems
+	- [x] druids took 1 and it was taken to [[Yester Hill]]
+	- [ ] The son lost 1 No one knows where it is.
+	- [ ] 1 was taken generations ago by scarecrows and are likely hiding in a swamp to the east. 
 
 ## Completed Quests
 

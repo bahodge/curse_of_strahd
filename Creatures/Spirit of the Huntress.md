@@ -1,0 +1,1 @@
+Represented by a bear. Currently hibernating in [[Ghak's Mountains]].

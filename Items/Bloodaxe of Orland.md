@@ -1,0 +1,1 @@
+A historical ax of the [[Wildfolk]] and possessed by an ancestor of [[Gell Wiildheart]]. The ax is possessed by [[Orlin Wiildheart]]. The ax named [[Gell Wiildheart]] as the heir of the [[Wildfolk]].

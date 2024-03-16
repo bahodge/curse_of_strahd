@@ -6,7 +6,7 @@ We meet [[Madam Ava]]. She tells me a [[Dusk Elf]] and gives us a reading.
 
 The reading 
 1. Necromancer of Stars (history). Woman hanging above a roaring fire. Find her, find the treasure 
-2. The Rogue (protection). A nest of ravens, ingratiate yourself within it and find our prize (the [[Holy Crest of Raven-Kind]]) 
+2. The Rogue (protection). A nest of ravens, ingratiate yourself within it and find our prize (the [[Holy Symbol of Raven-Kind]]) 
 3. The Abjurer (weapon). Old house, guarded by stone dragon, look to highest peak. 
 4. The Tempter (ally). Hear wedding bells or death knell. Find a woman in an Abby where we will find a woman who is more than the sum of her parts. 
 5. The Executioner (enemy). Dark figure on a balcony, looking down on the land with a twisted smile.

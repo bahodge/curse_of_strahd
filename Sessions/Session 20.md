@@ -1,4 +1,4 @@
-After the battle, [[Muriel Vensha]] was nowhere to be seen. She had followed the enemies up the hill and none of the wareravens that have returned. We finish cleansing all of the wine that was poisoned at the [[Wizards of Wine]] and prepare to move up towards [[Yester Hill]].
+After the battle, [[Muriel Vensha]] was nowhere to be seen. She had followed the enemies up the hill and none of the wereravens that have returned. We finish cleansing all of the wine that was poisoned at the [[Wizards of Wine]] and prepare to move up towards [[Yester Hill]].
 
 We leave the [[Wizards of Wine]] and head up towards the hill. There is ominous fog and it is hard to see. There are black rocks and terraces ringing the hill with a large tree at the center. 
 

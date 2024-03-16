@@ -1,1 +1,0 @@
-An amulet of the ware ravens of [[Irwin]] and [[Muriel Vensha]].

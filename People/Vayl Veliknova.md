@@ -13,3 +13,4 @@ Favorite drink: Ale
 
 [[Vayl Veliknova|Vayle]] is the the daughter to [[Patrina Veliknova]]. Niece of [[Kasimir]]. 
 
+![[dark_elf.png]]
