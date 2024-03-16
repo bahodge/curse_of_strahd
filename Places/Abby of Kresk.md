@@ -1,1 +1,1 @@
-A majestic abby in the center of the [[Village of Kresk]].
+A majestic Abby in atop a hill in the [[Village of Kresk]].

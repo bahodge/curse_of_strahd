@@ -20,7 +20,6 @@ We speak to a blacksmith and get a quote on plate armor
 - 750GP with ore
 - negotiable if we take care of the werewolves and help [[Burgomaster Dimitri Kreskov]]
 
-The blacksmith notices the silver coffer from 
+The blacksmith notices the silver coffer [[Fyndal Kayne]] and offers to buy it but we don't sell it. Instead we silver [[Vayl Veliknova|Vayl]]'s halberd.
 
-We head to the [[Abby of Kresk]] and [[Fyndal Kayne]] hugs a statue and [[Vayl Veliknova]] skips a rock further than [[Fyndal Kayne]], again proving how awesome she is. Nothing happens. 
-
+We head to the [[Abby of Kresk]] and [[Fyndal Kayne]] hugs a statue and [[Vayl Veliknova]] skips a rock further than [[Fyndal Kayne]], again proving how awesome she is. Nothing happens. We approach the abby and see 2 heaving piles of fur. 

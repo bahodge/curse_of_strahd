@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b29b3364bab6ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,10 +203,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22b64e61c22c4814",
+  "active": "6b29b3364bab6ea0",
   "lastOpenFiles": [
-    "Places/Abby of Kresk.md",
+    "Places/Village of Kresk.md",
     "Session 21.md",
+    "Images/village_of_kresk.png",
+    "Places/Abby of Kresk.md",
     "People/Gell Wiildheart.md",
     "Quests.md",
     "Images/gell_wildheart.jpg",
@@ -224,7 +238,6 @@
     "Sessions/Session 17.md",
     "Sessions/Session 5 - Reading.md",
     "Groups/Vensha Family.md",
-    "Items/Brief History of Barovia.md",
     "Images/strahd_von_tsarovich.png",
     "Images/strahd 1.png",
     "Images/claudia_belasco.png",
