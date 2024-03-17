@@ -49,6 +49,12 @@ We are greeted by [[Kiril Tsoylonovich]]. We also learned that [[Sumrak]] was tu
 
 We slaughter all the wolves and werewolves in the cave. [[Sumrak]] finishes off [[Kiril Tsoylonovich]] as revenge.
 
-- we find a flute of electrum
-- pouch of 4 gemstones each worth 50GP
-- 
+- loot
+	- we find a flute of electrum
+	- pouch of 4 gemstones each worth 50GP
+	- adult sized clothing from different different cultures.
+	- 1 small zombie doll with the inscription "is no fun is no blinzki
+	- crude statue of mother night
+	- horde of treasure
+	
+We find 2 living prisoners are shackled to the wall, but [[Emil Toranzku]] is nowhere to be found. We free the prisoners and ask about [[Emil Toranzku]] but they have no idea. [[Sumrak]] casts speak with dead on one of the dead werewolves. The werewolf says that [[Emil Toranzku]] was likely taken to [[Castle Ravenloft]].
