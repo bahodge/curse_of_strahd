@@ -53,8 +53,18 @@ We slaughter all the wolves and werewolves in the cave. [[Sumrak]] finishes off 
 	- we find a flute of electrum
 	- pouch of 4 gemstones each worth 50GP
 	- adult sized clothing from different different cultures.
-	- 1 small zombie doll with the inscription "is no fun is no blinzki
+	- 1 small zombie doll with the inscription "is no fun is no blinzki"
 	- crude statue of mother night
 	- horde of treasure
+		- 4,500 cp, 900 sp, and 250 gp (all coins of mintages foreign to Barovia)
+		- Thirty 50 gp gemstones and seven 100 gp gemstones
+		- Twelve pieces of plain gold jewelry (worth 25 gp each) and a finely wrought gold cloak-pin inlaid with shards of jet (worth 250 gp)
+		- An ivory drinking horn engraved with dancing dryads and satyr pipe players (worth 250 gp)
+		- An ornate electrum censer with platinum filigree (worth 750 gp)
 	
 We find 2 living prisoners are shackled to the wall, but [[Emil Toranzku]] is nowhere to be found. We free the prisoners and ask about [[Emil Toranzku]] but they have no idea. [[Sumrak]] casts speak with dead on one of the dead werewolves. The werewolf says that [[Emil Toranzku]] was likely taken to [[Castle Ravenloft]].
+
+
+Next time:
+- visit the [[Abbot of Kresk]]
+- visit [[Village of Kresk]] and get plate armor for [[Vayl Veliknova]]
