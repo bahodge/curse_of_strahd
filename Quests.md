@@ -15,23 +15,25 @@
 	- [ ] The Executioner (enemy). Dark figure on a balcony, looking down on the land with a twisted smile.
 - Attend a dinner to [[Castle Ravenloft]] with the invitation of [[Count Strahd von Tzarovich]] in 4 days (since the festival of the blazing sun)
 
-### Town of Vellaki
+### Town of Vellakki
 
-- [ ] [[Leopard von Doyle]] wants us to investigate the disappearance [[Bluto]] at [[Lake Tzarovich]].
+- [x] [[Leopard von Doyle]] wants us to investigate the disappearance [[Bluto]] at [[Lake Tzarovich]].
 	- we discovered [[Bluto]]'s address as 4 Poor Street in [[Town of Velakki|Velakki]].
 	- his house is empty and we search his home. We find the doll and clothes of a small girl named [[Aribella]].
 	- We get to [[Lake Tzarovich]] and see [[Bluto]] trying to throw [[Aribella]] into the lake.
 	- We rescue [[Aribella]] from [[Bluto]].
 	- [[Bluto]] say's that he was sacrificing her to a leviathan in the lake. We take [[Bluto]] back to the [[Vistani]] camp outside of town to judgement.
 - [x] [[Burgomaster "Baron" Vargas Velokovich]] asked us to attend the [[Valakki Weekly Festival]] to receive a reward for defeating the [[Shadow Demon]].
-- [ ] Take a necklace to [[Cyrus Bellevue]] in [[Castle Ravenloft]].
-- [ ] We inform them of us helping [[Father Lucian Petrovich]] to deliver the bones of [[Saint Andarel]]. We learn that that they are wereravens. We learned that [[Count Strahd von Tzarovich|Strahd]] killed the old gods.
+	- we killed him and his family. They burned a wedding dress
+- [x] Take a necklace to [[Cyrus Bellevue]] in [[Castle Ravenloft]].
+- [x] We inform them of us helping [[Father Lucian Petrovich]] to deliver the bones of [[Saint Andarel]]. We learn that that they are wereravens. We learned that [[Count Strahd von Tzarovich|Strahd]] killed the old gods.
 - [x] [[Lady Fiona Wakter]] wants us to help her daughter [[Stella Wakter]].
 	- Find a way to cast Greater Restoration on [[Stella Wakter]].
 	- We learn the [[Abbot of Kresk]] can likely help her.
+	- the [[Abbot of Kresk]] heals her.
 ### Mage Tower
 
-- Find [[Rudolph Van Richten]].
+- [x] Find [[Rudolph Van Richten]].
 	- meet [[Rudolph Van Richten]] at the mage tower in the [[Town of Velakki]].
 	- We found [[Rudolph Van Richten]] and explored the mage tower a bit, we need to go back and help him perform more research on defeating [[Count Strahd von Tzarovich]].
 ### Village of Kresk

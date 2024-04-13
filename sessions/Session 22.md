@@ -12,4 +12,8 @@ We head to the [[Abby of Kresk]] and speak with the [[Abbot of Kresk]]. [[Saraph
 
 [[Saraphina Blackwood]] is introduced to the [[Abbot of Kresk]]. He says he may have a solution to her predicament. We give them a bunch of dire wolf carcasses for eating. We learn that [[Count Strahd von Tzarovich|Strahd]] has been killed many times, but because the land is cursed, he always comes back. [[Saraphina Blackwood]] is told that she can soften [[Count Strahd von Tzarovich]]'s heart and make him vulnerable. If we can make [[Count Strahd von Tzarovich|Strahd]] happy, we may be able to lift the curse on the land. The last time he tried to present the version of [[Tatiana]], [[Count Strahd von Tzarovich|Strahd]] ripped it apart. [[Saraphina Blackwood|Saraphina]] agrees to try and teach a new [[flesh golem]] incarnation how to be more like [[Tatiana]]. We need to collect body parts of previous incarnations of [[Tatiana]] to construct a new [[flesh golem]].
 
+We think that this [[flesh golem]] will is part of the [[Session 5 - Reading]] done by [[Madam Ava]].
+
 We also learn that the [[Bellevue Family]] asked for help from the [[Abbot of Kresk]] who healed them and improved them by giving them new body parts. 
+
+We think that [[Saraphina Blackwood]] might have 
