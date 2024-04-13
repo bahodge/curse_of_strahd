@@ -1,0 +1,1 @@
+Human and wolf hybrids. Not liked by barovians. [[Sumrak]] is a werewolf.

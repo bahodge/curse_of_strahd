@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70acd4ad340e6568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessions/Session 22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,11 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94f05f0483f0665b",
+  "active": "70acd4ad340e6568",
   "lastOpenFiles": [
+    "creatures/werewolf.md",
+    "sessions/Session 22.md",
     "items/sun shaped indentation.md",
     "people/Tasha Petrovna.md",
-    "sessions/Session 22.md",
     "places/Wakter House.md",
     "people/Irwin Martikov.md",
     "people/Brogan Ironforge.md",
@@ -194,7 +208,6 @@
     "people/Kiril Tsoylonovich.md",
     "images/kiril.png",
     "sessions/Session 4.md",
-    "items/Tarokka Deck.md",
     "images/mongrelkin_2.png",
     "images/mongrelkin_1.png",
     "images/mongrelkin_2",

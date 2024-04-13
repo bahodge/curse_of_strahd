@@ -31,3 +31,5 @@ We arrive at the town and the general feeling is very happy. [[The Triumvirate]]
 [[Gell Wiildheart]] goes to the [[Comfy Coffin Co.]] and speaks with the owner. [[Gell Wiildheart]] tells him that the [[Abbot of Kresk]] can fix his ugly daughter. 
 
 The party goes to the [[Wakter House]] to see [[Lady Fiona Wakter]]. [[Ernst Lanark]] lets them in and fetches [[Lady Fiona Wakter]]. We ask for a wedding dress and she agrees. We tell [[Lady Fiona Wakter]] that we helped her daughter and restored the [[Wizards of Wine]]. We think we can get the dress cleaned and altered at the tailor.
+
+At that point [[Granny Morgan]] speaks with [[Fyndal Kayne]] through the sending stone (rocky talky). She says that [[Count Strahd von Tzarovich|Strahd]] is angry and leaving [[Castle Ravenloft]]. We tell [[wereraven]]s to warn everyone. [[Sumrak]] awoos and warns the other [[werewolf|werewolves]]. 
