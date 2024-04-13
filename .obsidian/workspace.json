@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 22.md",
+                "file": "Quests.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 22.md"
+                "file": "Quests.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 22.md",
+                "file": "Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 22.md",
+                "file": "Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,14 +181,14 @@
   },
   "active": "70acd4ad340e6568",
   "lastOpenFiles": [
-    "creatures/werewolf.md",
     "sessions/Session 22.md",
+    "sessions/Session 21.md",
+    "creatures/werewolf.md",
     "items/sun shaped indentation.md",
     "people/Tasha Petrovna.md",
     "places/Wakter House.md",
     "people/Irwin Martikov.md",
     "people/Brogan Ironforge.md",
-    "sessions/Session 21.md",
     "creatures/wereraven.md",
     "groups/The Triumvirate.md",
     "people/Burgomaster \"Baron\" Vargas Velokovich.md",

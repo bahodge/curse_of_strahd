@@ -64,6 +64,7 @@
 	- the abbot has not left the Abby in weeks
 	- [ ] We have 1 month to find a white wedding dress to pay the [[Abby of Kresk]] for resurrecting the son. the [[Burgomaster Dimitri Kreskov]] is willing to help us commission a dress for a few hundred GP.
 		- we think we can get a dress in the [[Town of Velakki]].
+		- we order the dress and it will be ready in a week. We paid 1k gp.
 - [ ] [[Burgomaster Dimitri Kreskov]] has asked us into the disappearance of dead bodies
 - [x] Deal with the werewolves surrounding the city.
 
@@ -76,10 +77,10 @@
 
 ## Wizards of Wine
 
-- [ ] We need to take wine deliveries to [[Village of Kresk]], [[Town of Velakki]] and the [[Western Vistani Camp]]. We have 6 casks total.
-- 3 [[Town of Velakki]]
-- 2 [[Village of Kresk]]
-- 1 [[Vistani]]
+- [x] We need to take wine deliveries to [[Village of Kresk]], [[Town of Velakki]] and the [[Western Vistani Camp]]. We have 6 casks total.
+	- 3 [[Town of Velakki]]
+	- 2 [[Village of Kresk]]
+	- 1 [[Vistani]]
 - [ ] Recover family gems
 	- [x] druids took 1 and it was taken to [[Yester Hill]]
 	- [ ] The son lost 1 No one knows where it is.
