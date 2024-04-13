@@ -17,3 +17,9 @@ We think that this [[flesh golem]] will is part of the [[Session 5 - Reading]] d
 We also learn that the [[Bellevue Family]] asked for help from the [[Abbot of Kresk]] who healed them and improved them by giving them new body parts. 
 
 We think that [[Saraphina Blackwood]] might have been smuggled out of the missed long ago and lost her memory.
+
+On the way out, [[Fyndal Kayne]] looks again and sees that there is a grave with a 3 inch diameter [[sun shaped indentation]] on the gravestone. We are unaware of who's crest would fit in the indentation.
+
+## Werewolves
+
+We inform [[Zulika Toranzku]] that we did not find [[Emil Toranzku]] and tell her that we killed [[Kiril Tsoylonovich]]. [[Sumrak]] gives her back the sickles because she deepened her pact. [[Zulika Toranzku]] is angry about [[Emil Toranzku]]. She tells us that we can count on the we

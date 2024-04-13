@@ -1,0 +1,1 @@
+Patron saint of the [[Church of Saint Andarel]].
