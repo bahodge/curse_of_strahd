@@ -6,7 +6,7 @@
 	- [x] Necromancer of Stars (history). Woman hanging above a roaring fire. Find her, find the treasure 
 		-  [[Tome of Strahd]]
 	- [x]  The Rogue (protection). A nest of ravens, ingratiate yourself within it and find our prize (the [[Holy Symbol of Raven-Kind]]) 
-		-  We meet [[Muriel Vensha]] who is a raven. She and [[Irwin]] need help receiving their shipment of win
+		-  We meet [[Muriel Vensha]] who is a raven. She and [[Irwin Martikov]] need help receiving their shipment of win
 		- We make our way to the [[Wizards of Wine]] vineyard and help the [[Vensha Family]] with the [[Wildfolk]]. We kill all of the [[Wildfolk]] and learn a family gem was stolen and taken to [[Yester Hill]].
 		- We are now ingratiated with the ravens ([[Vensha Family]])
 	- [ ] The Abjurer (weapon). Old house, guarded by stone dragon, look to highest peak. 
@@ -74,7 +74,6 @@
 	- We arrive at the house of [[Burgomaster Ismark Koylanovich]] and deliver [[Yeska]].
 - [x]  Save the [[Village of Barovia]].
 
- 
 ## Wizards of Wine
 
 - [ ] We need to take wine deliveries to [[Village of Kresk]], [[Town of Velakki]] and the [[Western Vistani Camp]]. We have 6 casks total.

@@ -39,7 +39,7 @@ We speak with the leaders of the [[Vistani]] camp and inform them of the origin 
 
 ##  Town of Velakki
 
-We head to our house on Poor street. We refill [[Fyndal Kayne]]'s wine reserves. We head to the [[Velakki Inn]] and deliver the wine to [[Irwin]]. [[Irwin]] is over the moon. For delivering the wine we are granted free room and board at the [[Velakki Inn]].
+We head to our house on Poor street. We refill [[Fyndal Kayne]]'s wine reserves. We head to the [[Velakki Inn]] and deliver the wine to [[Irwin Martikov]]. [[Irwin Martikov]] is over the moon. For delivering the wine we are granted free room and board at the [[Velakki Inn]].
 
 ## Werewolf Den
 

@@ -1,0 +1,1 @@
+Leaders of the [[Town of Velakki]] after the untimely death of [[Burgomaster "Baron" Vargas Velokovich]].

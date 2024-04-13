@@ -14,7 +14,7 @@ We take a short rest at the [[Church of Saint Andarel]] and discuss our plan goi
 
 We confirm that [[Lady Fiona Wakter]] is against [[Count Strahd von Tzarovich]] and reaffirm our arrangement her to kill the [[Burgomaster "Baron" Vargas Velokovich]].
 
-We speak with [[Muriel Vensha]] and [[Irwin]] and learn that there is an evil tree at [[Yester Hill]]. She speaks about a powerful healer in [[Village of Kresk]] who is being harried by a pack of warewolves. [[Castle Ravenloft]] is built upon the pillars of stone. She also says she also saw a dragon at [[Argynvostholt]].
+We speak with [[Muriel Vensha]] and [[Irwin Martikov]] and learn that there is an evil tree at [[Yester Hill]]. She speaks about a powerful healer in [[Village of Kresk]] who is being harried by a pack of warewolves. [[Castle Ravenloft]] is built upon the pillars of stone. She also says she also saw a dragon at [[Argynvostholt]].
 
 We travel to the [[Vistani]] camp and met up with [[Kasimir]]. They have confirmed that [[Vayl Veliknova]] is indeed related to the Viliknova line. My mother wanted to become a bride of [[Count Strahd von Tzarovich]]. As a reprisal, she was stoned to death. [[Rahadeen]] came in the night and killed all of the female dusk elves. [[Count Strahd von Tzarovich]] took her remains and buried them in the catacombs of the [[Castle Ravenloft]]. We need to sneak in. [[Count Strahd von Tzarovich]] is rumored to have gained his powers from the [[Amber Temple]] with dealings with a faceless god.
 

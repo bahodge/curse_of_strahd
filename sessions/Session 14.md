@@ -1,5 +1,5 @@
-We regroup and head towards Fiona. Fiona addresses the crowd of civilians and convinces everyone that we are on their side. [[Leopard von Doyle]], [[Head Matron Claudia Belasco]] & [[Irwin]] puts their names into the ring for leadership of the [[Town of Velakki]]. [[Lady Fiona Wakter]] is acting as the steward until a leader is chosen in 1 week.
-We regroup and head towards Fiona. Fiona addresses the crowd of civilians and convinces everyone that we are on their side. [[Leopard von Doyle]], [[Head Matron Claudia Belasco]] & [[Irwin]] puts their names into the ring for leadership of the [[Town of Velakki]]. [[Lady Fiona Wakter]] is acting as the steward until a leader is chosen in 1 week.
+We regroup and head towards Fiona. Fiona addresses the crowd of civilians and convinces everyone that we are on their side. [[Leopard von Doyle]], [[Head Matron Claudia Belasco]] & [[Irwin Martikov]] puts their names into the ring for leadership of the [[Town of Velakki]]. [[Lady Fiona Wakter]] is acting as the steward until a leader is chosen in 1 week.
+We regroup and head towards Fiona. Fiona addresses the crowd of civilians and convinces everyone that we are on their side. [[Leopard von Doyle]], [[Head Matron Claudia Belasco]] & [[Irwin Martikov]] puts their names into the ring for leadership of the [[Town of Velakki]]. [[Lady Fiona Wakter]] is acting as the steward until a leader is chosen in 1 week.
 
 ### Town square
 

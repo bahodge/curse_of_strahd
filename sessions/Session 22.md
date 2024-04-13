@@ -23,3 +23,9 @@ On the way out, [[Fyndal Kayne]] looks again and sees that there is a grave with
 ## Werewolves
 
 We inform [[Zulika Toranzku]] that we did not find [[Emil Toranzku]] and tell her that we killed [[Kiril Tsoylonovich]]. [[Sumrak]] gives her back the sickles because she deepened her pact. [[Zulika Toranzku]] is angry about [[Emil Toranzku]]. She tells us that we can count on the werewolves that 
+
+## Town of Vellakki
+
+We arrive at the town and the general feeling is very happy. [[The Triumvirate]] is going really well. [[Gell Wiildheart|Gell]] and [[Vayl Veliknova|Vayl]] go to the bar and ask [[Irwin Martikov]] about the missing gem. He didn't see anything on the night the gem was taken. We ask and we think that the [[wereraven]]s would not take the gem. Based off of [[Irwin Martikov]]'s description, we think that a flying creature stole the gem.
+
+We didn't benefit anything throughout the long rest.
