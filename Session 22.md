@@ -1,0 +1,1 @@
+[[Saraphina Blackwood]] enters the cave and observes all of the gore in the cave. [[Sumrak]] gains the ability to turn into a werewolf at will. [[Sumrak]] no longer needs the sickles and should return them [[Zulika Toranzku]].
