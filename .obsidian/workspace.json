@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d3b0e93cd35e1b30",
+        "id": "1dbcc9628c18b729",
         "type": "tabs",
         "children": [
           {
-            "id": "71ba11bd202ab594",
+            "id": "66c5b46f3122564f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 22.md",
+                "file": "Sessions/Session 22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77b64bb52d4c1e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abby of Kresk Graveyard.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 22.md"
+                "file": "Sessions/Session 22.md"
               }
             }
           },
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 22.md",
+                "file": "Sessions/Session 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 22.md",
+                "file": "Sessions/Session 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,10 +178,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71ba11bd202ab594",
+  "active": "66c5b46f3122564f",
   "lastOpenFiles": [
+    "Abby of Kresk Graveyard.md",
+    "Sessions/Session 22.md",
+    "People/Otto Bellevue.md",
+    "People/Zygfrek Bellevue.md",
+    "Creatures/Mongrelfolk.md",
     "Sessions/Session 5 - Reading.md",
-    "Session 22.md",
     "Sessions/Session 21.md",
     "Quests.md",
     "Places/Werewolf Den.md",
@@ -191,10 +207,6 @@
     "Sessions/Session 18.md",
     "People/Emil Toranzku.md",
     "People/Zulika Toranzku.md",
-    "Places/Kingdom of Barovia.md",
-    "Events/Abduction by Mist.md",
-    "People/Argynvostholt.md",
-    "Places/Town of Velakki.md",
     "Images/mongrelkin_2.png",
     "Images/mongrelkin_1.png",
     "Images/mongrelkin_2",

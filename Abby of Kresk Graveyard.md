@@ -1,0 +1,1 @@
+Ancient gravestones burst through the snow. The view of the [[Village of Kresk]], 400 feet below, is breathtaking.
