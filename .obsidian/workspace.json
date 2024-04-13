@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 22.md",
+                "file": "sessions/Session 22.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "77b64bb52d4c1e7d",
+            "id": "109b03b572258374",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abby of Kresk Graveyard.md",
+                "file": "sessions/Session 22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 22.md"
+                "file": "sessions/Session 22.md"
               }
             }
           },
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 22.md",
+                "file": "sessions/Session 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 22.md",
+                "file": "sessions/Session 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,54 +179,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66c5b46f3122564f",
+  "active": "109b03b572258374",
   "lastOpenFiles": [
-    "Abby of Kresk Graveyard.md",
-    "Sessions/Session 22.md",
-    "People/Otto Bellevue.md",
-    "People/Zygfrek Bellevue.md",
-    "Creatures/Mongrelfolk.md",
-    "Sessions/Session 5 - Reading.md",
-    "Sessions/Session 21.md",
+    "Bellevue Family.md",
+    "sessions/Session 22.md",
+    "places/Abby of Kresk Graveyard.md",
+    "people/Otto Bellevue.md",
+    "people/Zygfrek Bellevue.md",
+    "creatures/Mongrelfolk.md",
+    "sessions/Session 5 - Reading.md",
+    "sessions/Session 21.md",
     "Quests.md",
-    "Places/Werewolf Den.md",
-    "People/Sumrak.md",
-    "People/Kiril Tsoylonovich.md",
-    "Images/kiril.png",
-    "Sessions/Session 4.md",
-    "Items/Tarokka Deck.md",
-    "People/Aribella.md",
-    "Places/Amber Temple.md",
-    "Places/Ghak's Mountains.md",
-    "People/Patrina Veliknova.md",
-    "People/Vayl Veliknova.md",
-    "Sessions/Session 12.md",
-    "Sessions/Session 13.md",
-    "Sessions/Session 14.md",
-    "Sessions/Session 16.md",
-    "Sessions/Session 17.md",
-    "Sessions/Session 18.md",
-    "People/Emil Toranzku.md",
-    "People/Zulika Toranzku.md",
-    "Images/mongrelkin_2.png",
-    "Images/mongrelkin_1.png",
-    "Images/mongrelkin_2",
-    "Images/village_of_kresk.png",
-    "Images/gell_wildheart.jpg",
-    "Images/sumrak_portrait.png",
-    "Images/dark_elf.png",
-    "Images/muriel_vensha_purple.jpg",
+    "places/Werewolf Den.md",
+    "people/Sumrak.md",
+    "people/Kiril Tsoylonovich.md",
+    "images/kiril.png",
+    "sessions/Session 4.md",
+    "items/Tarokka Deck.md",
+    "people/Aribella.md",
+    "places/Amber Temple.md",
+    "places/Ghak's Mountains.md",
+    "people/Patrina Veliknova.md",
+    "people/Vayl Veliknova.md",
+    "sessions/Session 12.md",
+    "sessions/Session 13.md",
+    "sessions/Session 14.md",
+    "sessions/Session 16.md",
+    "sessions/Session 17.md",
+    "sessions/Session 18.md",
+    "people/Emil Toranzku.md",
+    "images/mongrelkin_2.png",
+    "images/mongrelkin_1.png",
+    "images/mongrelkin_2",
+    "images/village_of_kresk.png",
+    "images/gell_wildheart.jpg",
+    "images/sumrak_portrait.png",
+    "images/dark_elf.png",
+    "images/muriel_vensha_purple.jpg",
     "Images/muriel_vensha.png",
     "Untitled.canvas",
-    "Images/strahd_von_tsarovich.png",
-    "Images",
+    "images/strahd_von_tsarovich.png",
+    "images",
     "Quests",
-    "Sessions",
-    "Groups",
+    "sessions",
+    "groups",
     "Items/Untitled",
-    "Items",
-    "Events",
-    "Creatures",
-    "Events"
+    "items",
+    "events",
+    "creatures",
+    "events"
   ]
 }
