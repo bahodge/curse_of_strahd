@@ -1,0 +1,1 @@
+Norrick dwarf for a single day. A miner we met in the [[Town of Velakki]].

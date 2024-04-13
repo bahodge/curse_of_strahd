@@ -28,4 +28,4 @@ We inform [[Zulika Toranzku]] that we did not find [[Emil Toranzku]] and tell he
 
 We arrive at the town and the general feeling is very happy. [[The Triumvirate]] is going really well. [[Gell Wiildheart|Gell]] and [[Vayl Veliknova|Vayl]] go to the bar and ask [[Irwin Martikov]] about the missing gem. He didn't see anything on the night the gem was taken. We ask and we think that the [[wereraven]]s would not take the gem. Based off of [[Irwin Martikov]]'s description, we think that a flying creature stole the gem.
 
-We didn't benefit anything throughout the long rest.
+[[Fyndal Kayne]] and [[Vayl Veliknova]] didn't benefit anything throughout the long rest because the treasure was cursed. We go to the tailor and see a dwarf named [[Brogan Ironforge]]
