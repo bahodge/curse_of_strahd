@@ -12,7 +12,8 @@
 	- [ ] The Abjurer (weapon). Old house, guarded by stone dragon, look to highest peak. 
 		-  [[Argynvostholt]]
 	- [ ] The Tempter (ally). Hear wedding bells or death knell. Find a woman in an Abby where we will find a woman who is more than the sum of her parts. 
-		- Abbey at the [[Village of Kresk]]
+		- [x] Go to the [[Abby of Kresk]]
+		- [ ] The [[Abbot of Kresk]] wants us to go to the [[Village of Berez]] and collect body parts for a [[flesh golem]] so he can create a new version of [[Tatiana]] so [[Saraphina Blackwood]] doesn't need to marry [[Count Strahd von Tzarovich]]
 	- [ ] The Executioner (enemy). Dark figure on a balcony, looking down on the land with a twisted smile.
 - Attend a dinner to [[Castle Ravenloft]] with the invitation of [[Count Strahd von Tzarovich]] in 4 days (since the festival of the blazing sun)
 
@@ -65,7 +66,6 @@
 		- we think we can get a dress in the [[Town of Velakki]].
 - [ ] [[Burgomaster Dimitri Kreskov]] has asked us into the disappearance of dead bodies
 - [x] Deal with the werewolves surrounding the city.
-- [ ] The [[Abbot of Kresk]] wants us to go to the [[Village of Berez]] and collect body parts for a [[flesh golem]] so he can create a new version of [[Tatiana]] so [[Saraphina Blackwood]] doesn't need to marry [[Count Strahd von Tzarovich]]
 
 ## Village of Barovia
 
