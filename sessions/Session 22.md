@@ -33,3 +33,5 @@ We arrive at the town and the general feeling is very happy. [[The Triumvirate]]
 The party goes to the [[Wakter House]] to see [[Lady Fiona Wakter]]. [[Ernst Lanark]] lets them in and fetches [[Lady Fiona Wakter]]. We ask for a wedding dress and she agrees. We tell [[Lady Fiona Wakter]] that we helped her daughter and restored the [[Wizards of Wine]]. We think we can get the dress cleaned and altered at the tailor.
 
 At that point [[Granny Morgan]] speaks with [[Fyndal Kayne]] through the sending stone (rocky talky). She says that [[Count Strahd von Tzarovich|Strahd]] is angry and leaving [[Castle Ravenloft]]. We tell [[wereraven]]s to warn everyone. [[Sumrak]] awoos and warns the other [[werewolf|werewolves]]. 
+
+[[Fyndal Kayne]] asks a god for help and unintentionally tells [[Count Strahd von Tzarovich]] where all of his enemies are. We decide that we are going go to the [[Western Mage Tower]] to try and intervene between [[Count Strahd von Tzarovich]] and everyone.

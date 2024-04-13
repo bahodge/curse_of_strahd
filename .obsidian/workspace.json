@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94f05f0483f0665b",
+            "id": "70acd4ad340e6568",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "70acd4ad340e6568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests.md"
+                "file": "sessions/Session 22.md"
               }
             }
           },
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests.md",
+                "file": "sessions/Session 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests.md",
+                "file": "sessions/Session 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +168,9 @@
   },
   "active": "70acd4ad340e6568",
   "lastOpenFiles": [
-    "sessions/Session 22.md",
     "sessions/Session 21.md",
+    "sessions/Session 22.md",
+    "Quests.md",
     "creatures/werewolf.md",
     "items/sun shaped indentation.md",
     "people/Tasha Petrovna.md",
@@ -192,7 +180,6 @@
     "creatures/wereraven.md",
     "groups/The Triumvirate.md",
     "people/Burgomaster \"Baron\" Vargas Velokovich.md",
-    "Quests.md",
     "sessions/Session 5 - Reading.md",
     "items/Crest of Ravenkind.md",
     "people/Saint Andarel.md",
