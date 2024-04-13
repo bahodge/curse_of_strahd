@@ -16,4 +16,4 @@ We think that this [[flesh golem]] will is part of the [[Session 5 - Reading]] d
 
 We also learn that the [[Bellevue Family]] asked for help from the [[Abbot of Kresk]] who healed them and improved them by giving them new body parts. 
 
-We think that [[Saraphina Blackwood]] might have 
+We think that [[Saraphina Blackwood]] might have been smuggled out of the missed long ago and lost her memory.
