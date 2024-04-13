@@ -8,115 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66c5b46f3122564f",
+            "id": "94f05f0483f0665b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "sessions/Session 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9b23b1d0cf9fbd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "items/sun shaped indentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5e259a4fa80d523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64d9fefe59932ba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "groups/The Triumvirate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c09e2c712276b0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a45e785a61ad274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sessions/Session 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "154afa1bff635fd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasha Petrovna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "322d5c9100abf146",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "places/Wakter House.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbb3957a87a5a5a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/Irwin Martikov.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasha Petrovna.md"
+                "file": "sessions/Session 22.md"
               }
             }
           },
@@ -212,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasha Petrovna.md",
+                "file": "sessions/Session 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasha Petrovna.md",
+                "file": "sessions/Session 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,10 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "154afa1bff635fd1",
+  "active": "94f05f0483f0665b",
   "lastOpenFiles": [
+    "items/sun shaped indentation.md",
+    "people/Tasha Petrovna.md",
     "sessions/Session 22.md",
-    "Tasha Petrovna.md",
     "places/Wakter House.md",
     "people/Irwin Martikov.md",
     "people/Brogan Ironforge.md",
@@ -277,7 +181,6 @@
     "Quests.md",
     "sessions/Session 5 - Reading.md",
     "items/Crest of Ravenkind.md",
-    "items/sun shaped indentation.md",
     "people/Saint Andarel.md",
     "people/Madam Ava.md",
     "creatures/flesh golem.md",

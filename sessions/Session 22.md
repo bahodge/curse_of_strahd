@@ -12,14 +12,7 @@ We head to the [[Abby of Kresk]] and speak with the [[Abbot of Kresk]]. [[Saraph
 
 [[Saraphina Blackwood]] is introduced to the [[Abbot of Kresk]]. He says he may have a solution to her predicament. We give them a bunch of dire wolf carcasses for eating. We learn that [[Count Strahd von Tzarovich|Strahd]] has been killed many times, but because the land is cursed, he always comes back. [[Saraphina Blackwood]] is told that she can soften [[Count Strahd von Tzarovich]]'s heart and make him vulnerable. If we can make [[Count Strahd von Tzarovich|Strahd]] happy, we may be able to lift the curse on the land. The last time he tried to present the version of [[Tatiana]], [[Count Strahd von Tzarovich|Strahd]] ripped it apart. [[Saraphina Blackwood|Saraphina]] agrees to try and teach a new [[flesh golem]] incarnation how to be more like [[Tatiana]]. We need to collect body parts of previous incarnations of [[Tatiana]] to construct a new [[flesh golem]].
 
-
-
-
-We think that this [[flesh golem]] will is part of the [[Session 5 - Reading]] done by [[Madam Ava]].
-
-We also learn that the [[Bellevue Family]] asked for help from the [[Abbot of Kresk]] who healed them and improved them by giving them new body parts. 
-
-We think that [[Saraphina Blackwood]] might have been smuggled out of the missed long ago and lost her memory.
+We think that this [[flesh golem]] will is part of the [[Session 5 - Reading]] done by [[Madam Ava]]. We also learn that the [[Bellevue Family]] asked for help from the [[Abbot of Kresk]] who healed them and improved them by giving them new body parts. We think that [[Saraphina Blackwood]] might have been smuggled out of the missed long ago and lost her memory.
 
 On the way out, [[Fyndal Kayne]] looks again and sees that there is a grave with a 3 inch diameter [[sun shaped indentation]] on the gravestone. We are unaware of who's crest would fit in the indentation. The grave belongs to [[Tasha Petrovna]].
 
@@ -31,10 +24,10 @@ We inform [[Zulika Toranzku]] that we did not find [[Emil Toranzku]] and tell he
 
 We arrive at the town and the general feeling is very happy. [[The Triumvirate]] is going really well. [[Gell Wiildheart|Gell]] and [[Vayl Veliknova|Vayl]] go to the bar and ask [[Irwin Martikov]] about the missing gem. He didn't see anything on the night the gem was taken. We ask and we think that the [[wereraven]]s would not take the gem. Based off of [[Irwin Martikov]]'s description, we think that a flying creature stole the gem.
 
-[[Fyndal Kayne]] and [[Vayl Veliknova]] didn't benefit anything throughout the long rest because the treasure was cursed. We go to the tailor and see a dwarf named [[Brogan Ironforge]]. We order the dress.
+[[Fyndal Kayne]] and [[Vayl Veliknova]] didn't benefit anything throughout the long rest because the treasure was cursed. We go to the tailor and see a dwarf named [[Brogan Ironforge]]. We order the dress but it will take 2 weeks.
 
-[[Vayl Veliknova]] and [[Fyndal Kayne]] go to see [[Father Lucian Petrovich]] and try and get them decursed. We pay him and now are uncursed. We also ask if he knows anything about the [[sun shaped indentation]]. He 
+[[Vayl Veliknova]] and [[Fyndal Kayne]] go to see [[Father Lucian Petrovich]] and try and get them decursed. We pay him and now are uncursed. We also ask if he knows anything about the [[sun shaped indentation]]. He tells us that he saw a painting of [[Tasha Petrovna]] in [[Castle Ravenloft]].
 
 [[Gell Wiildheart]] goes to the [[Comfy Coffin Co.]] and speaks with the owner. [[Gell Wiildheart]] tells him that the [[Abbot of Kresk]] can fix his ugly daughter. 
 
-We go to [[Wakter House]] to see [[Lady Fiona Wakter]].
+The party goes to the [[Wakter House]] to see [[Lady Fiona Wakter]]. [[Ernst Lanark]] lets them in and fetches [[Lady Fiona Wakter]]. We ask for a wedding dress and she agrees. We tell [[Lady Fiona Wakter]] that we helped her daughter and restored the [[Wizards of Wine]]. We think we can get the dress cleaned and altered at the tailor.
