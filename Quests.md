@@ -1,6 +1,7 @@
 ## Active Quests
 
-### Main Quests
+## Main Quests
+
 - [[Madam Ava]] gave us a reading
 	- [x] Necromancer of Stars (history). Woman hanging above a roaring fire. Find her, find the treasure 
 		-  [[Tome of Strahd]]
@@ -63,7 +64,7 @@
 	- [ ] We have 1 month to find a white wedding dress to pay the [[Abby of Kresk]] for resurrecting the son. the [[Burgomaster Dimitri Kreskov]] is willing to help us commission a dress for a few hundred GP.
 		- we think we can get a dress in the [[Town of Velakki]].
 - [ ] [[Burgomaster Dimitri Kreskov]] has asked us into the disappearance of dead bodies
-- [ ] Deal with the werewolves surrounding the city.
+- [x] Deal with the werewolves surrounding the city.
 - [ ] The [[Abbot of Kresk]] wants us to go to the [[Village of Berez]] and collect body parts for a [[flesh golem]] so he can create a new version of [[Tatiana]] so [[Saraphina Blackwood]] doesn't need to marry [[Count Strahd von Tzarovich]]
 
 ## Village of Barovia

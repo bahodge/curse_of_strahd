@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 22.md",
+                "file": "Quests.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 22.md"
+                "file": "Quests.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 22.md",
+                "file": "Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 22.md",
+                "file": "Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +193,9 @@
   },
   "active": "d5e259a4fa80d523",
   "lastOpenFiles": [
+    "sessions/Session 22.md",
     "items/Crest of Ravenkind.md",
     "items/sun shaped indentation.md",
-    "sessions/Session 22.md",
     "people/Saint Andarel.md",
     "Quests.md",
     "sessions/Session 5 - Reading.md",
