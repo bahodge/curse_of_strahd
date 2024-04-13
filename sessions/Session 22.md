@@ -35,3 +35,11 @@ The party goes to the [[Wakter House]] to see [[Lady Fiona Wakter]]. [[Ernst Lan
 At that point [[Granny Morgan]] speaks with [[Fyndal Kayne]] through the sending stone (rocky talky). She says that [[Count Strahd von Tzarovich|Strahd]] is angry and leaving [[Castle Ravenloft]]. We tell [[wereraven]]s to warn everyone. [[Sumrak]] awoos and warns the other [[werewolf|werewolves]]. 
 
 [[Fyndal Kayne]] asks a god for help and unintentionally tells [[Count Strahd von Tzarovich]] where all of his enemies are. We decide that we are going go to the [[Western Mage Tower]] to try and intervene between [[Count Strahd von Tzarovich]] and everyone.
+
+## Western Mage Tower
+
+We go to the [[Western Mage Tower]] and warn everyone to scatter. We run away to [[Village of Berez]] and as we are leaving we see [[Count Strahd von Tzarovich]] blow up the the tower.
+
+## Village of Berez
+
+The mud is thick and the mud makes every step off.
