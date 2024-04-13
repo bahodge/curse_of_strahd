@@ -1,0 +1,1 @@
+Alter in the [[Village of Berez]] to the old god of the ravens

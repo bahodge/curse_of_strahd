@@ -1,0 +1,1 @@
+Giant stone covered in moss.

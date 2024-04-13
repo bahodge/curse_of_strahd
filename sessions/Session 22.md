@@ -42,4 +42,6 @@ We go to the [[Western Mage Tower]] and warn everyone to scatter. We run away to
 
 ## Village of Berez
 
-The mud is thick and the mud makes every step off. We tie up the horses and continue into the town. We look across the river and see a glowing flashing light. Someone is trying to signal us from across the river. We see [[Muriel Vensha]] across the river and she tells us to go across the river. [[Fyndal Kayne]] compeletly fails an active perception check.
+The mud is thick and the mud makes every step off. We tie up the horses and continue into the town. We look across the river and see a glowing flashing light. Someone is trying to signal us from across the river. We see [[Muriel Vensha]] across the river and she tells us to go across the river. [[Fyndal Kayne]] completely fails an active perception check. We cross the river and are attacked by some [[giant constrictor snake]]s.
+
+We make our way to [[Muriel Vensha]]. She is surrounded by 12 [[menhir]]s. [[Muriel Vensha]] says that she was investigating the missing gems from the [[Wizards of Wine]]. She says that she found the [[Alter of the Seer]]. The [[menhir]]s are covered in gore and blood and are definitely defiled. We think that the witch of the [[Village of Berez]]
