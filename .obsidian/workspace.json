@@ -80,12 +80,24 @@
             }
           },
           {
+            "id": "154afa1bff635fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasha Petrovna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "322d5c9100abf146",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brogan Ironforge.md",
+                "file": "places/Wakter House.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brogan Ironforge.md"
+                "file": "Tasha Petrovna.md"
               }
             }
           },
@@ -200,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brogan Ironforge.md",
+                "file": "Tasha Petrovna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brogan Ironforge.md",
+                "file": "Tasha Petrovna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,13 +263,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "322d5c9100abf146",
+  "active": "154afa1bff635fd1",
   "lastOpenFiles": [
     "sessions/Session 22.md",
-    "Brogan Ironforge.md",
+    "Tasha Petrovna.md",
+    "places/Wakter House.md",
+    "people/Irwin Martikov.md",
+    "people/Brogan Ironforge.md",
     "sessions/Session 21.md",
     "creatures/wereraven.md",
-    "people/Irwin Martikov.md",
     "groups/The Triumvirate.md",
     "people/Burgomaster \"Baron\" Vargas Velokovich.md",
     "Quests.md",
@@ -278,8 +292,6 @@
     "images/kiril.png",
     "sessions/Session 4.md",
     "items/Tarokka Deck.md",
-    "people/Aribella.md",
-    "places/Amber Temple.md",
     "images/mongrelkin_2.png",
     "images/mongrelkin_1.png",
     "images/mongrelkin_2",
