@@ -42,4 +42,4 @@ We go to the [[Western Mage Tower]] and warn everyone to scatter. We run away to
 
 ## Village of Berez
 
-The mud is thick and the mud makes every step off.
+The mud is thick and the mud makes every step off. We tie up the horses and continue into the town. We look across the river and see a glowing flashing light. Someone is trying to signal us from across the river. We see [[Muriel Vensha]] across the river and she tells us to go across the river. [[Fyndal Kayne]] compeletly fails an active perception check.
