@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Session 22.md",
+                "file": "Quests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1843a1dae78347d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 22.md"
+                "file": "Quests.md"
               }
             }
           },
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 22.md",
+                "file": "Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 22.md",
+                "file": "Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,17 +191,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "109b03b572258374",
+  "active": "1843a1dae78347d9",
   "lastOpenFiles": [
-    "Bellevue Family.md",
     "sessions/Session 22.md",
+    "sessions/Session 21.md",
+    "creatures/flesh golem.md",
+    "Quests.md",
+    "groups/Bellevue Family.md",
     "places/Abby of Kresk Graveyard.md",
     "people/Otto Bellevue.md",
     "people/Zygfrek Bellevue.md",
     "creatures/Mongrelfolk.md",
     "sessions/Session 5 - Reading.md",
-    "sessions/Session 21.md",
-    "Quests.md",
     "places/Werewolf Den.md",
     "people/Sumrak.md",
     "people/Kiril Tsoylonovich.md",
@@ -207,7 +220,6 @@
     "sessions/Session 16.md",
     "sessions/Session 17.md",
     "sessions/Session 18.md",
-    "people/Emil Toranzku.md",
     "images/mongrelkin_2.png",
     "images/mongrelkin_1.png",
     "images/mongrelkin_2",

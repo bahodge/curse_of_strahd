@@ -26,7 +26,7 @@
 - [x] [[Burgomaster "Baron" Vargas Velokovich]] asked us to attend the [[Valakki Weekly Festival]] to receive a reward for defeating the [[Shadow Demon]].
 - [ ] Take a necklace to [[Cyrus Bellevue]] in [[Castle Ravenloft]].
 - [ ] We inform them of us helping [[Father Lucian Petrovich]] to deliver the bones of [[Saint Andarel]]. We learn that that they are wereravens. We learned that [[Count Strahd von Tzarovich|Strahd]] killed the old gods.
-- [ ] [[Lady Fiona Wakter]] wants us to help her daughter [[Stella Wakter]].
+- [x] [[Lady Fiona Wakter]] wants us to help her daughter [[Stella Wakter]].
 	- Find a way to cast Greater Restoration on [[Stella Wakter]].
 	- We learn the [[Abbot of Kresk]] can likely help her.
 ### Mage Tower
@@ -40,8 +40,10 @@
 - [ ] Learn the true cause of [[Burgomaster Dimitri Kreskov]]'s son's death
 	- the abbot has not left the Abby in weeks
 	- [ ] We have 1 month to find a white wedding dress to pay the [[Abby of Kresk]] for resurrecting the son. the [[Burgomaster Dimitri Kreskov]] is willing to help us commission a dress for a few hundred GP.
+		- we think we can get a dress in the [[Town of Velakki]].
 - [ ] [[Burgomaster Dimitri Kreskov]] has asked us into the disappearance of dead bodies
 - [ ] Deal with the werewolves surrounding the city.
+- [ ] The [[Abbot of Kresk]] wants us to go to the [[Village of Berez]] and collect body parts for a [[flesh golem]] so he can create a new version of [[Tatiana]] so [[Saraphina Blackwood]] doesn't need to marry [[Count Strahd von Tzarovich]]
  
 ### Wizards of Wine
 

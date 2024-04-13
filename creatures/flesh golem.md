@@ -1,0 +1,1 @@
+Amalgamation of different body parts. The [[Abbot of Kresk]] is making them by getting the [[Mongrelfolk]] to rob graves.
