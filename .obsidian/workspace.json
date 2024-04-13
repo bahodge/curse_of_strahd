@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7b190f110dd7b4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "items/Champagne de la Stomp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0226bf0195671f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "creatures/Hag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -168,8 +192,10 @@
   },
   "active": "70acd4ad340e6568",
   "lastOpenFiles": [
-    "items/menhir.md",
+    "items/Champagne de la Stomp.md",
     "sessions/Session 22.md",
+    "creatures/Hag.md",
+    "items/menhir.md",
     "places/Alter of the Seer.md",
     "creatures/giant constrictor snake.md",
     "places/Western Mage Tower.md",
@@ -192,8 +218,6 @@
     "groups/Bellevue Family.md",
     "places/Abby of Kresk Graveyard.md",
     "people/Otto Bellevue.md",
-    "people/Zygfrek Bellevue.md",
-    "creatures/Mongrelfolk.md",
     "images/kiril.png",
     "images/mongrelkin_2.png",
     "images/mongrelkin_1.png",
